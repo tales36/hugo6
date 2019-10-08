@@ -6,7 +6,7 @@
     <description>Recent content on Initio - Free, multipurpose html5 template by GetTemplate</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Jun 2013 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2019 09:12:37 +0000</lastBuildDate>
     
 	<atom:link href="https://daily.19900119.xyz/index.xml" rel="self" type="application/rss+xml" />
     
@@ -19,6 +19,24 @@
       <guid>https://daily.19900119.xyz/about/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam beatae soluta accusantium iusto nihil nesciunt unde veniam magnam repudiandae sapiente.
 Necessitatibus Velit, odit, eius, libero unde impedit quaerat dolorem assumenda alias consequuntur optio quae maiores ratione tempore sit aliquid architecto eligendi pariatur ab soluta doloremque dicta aspernatur labore quibusdam dolore corrupti quod inventore. Maiores, repellat, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam!</description>
+    </item>
+    
+    <item>
+      <title>Sample</title>
+      <link>https://daily.19900119.xyz/post/sample/</link>
+      <pubDate>Tue, 08 Oct 2019 09:12:37 +0000</pubDate>
+      
+      <guid>https://daily.19900119.xyz/post/sample/</guid>
+      <description> test testだよー </description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://daily.19900119.xyz/post/test/</link>
+      <pubDate>Tue, 08 Oct 2019 05:47:42 +0000</pubDate>
+      
+      <guid>https://daily.19900119.xyz/post/test/</guid>
+      <description>tetesfdsfste</description>
     </item>
     
     <item>

@@ -5,13 +5,14 @@ type = "about"
 weight = 10
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam beatae soluta accusantium iusto nihil nesciunt unde veniam magnam repudiandae sapiente.
+# Jump to the sky turn to the riderkick!
 
-![about](../images/mac.jpg)
+![about](images/miyata.jpg)
 
-### Necessitatibus
+## background
 
-Velit, odit, eius, libero unde impedit quaerat dolorem assumenda alias consequuntur optio quae maiores ratione tempore sit aliquid architecto eligendi pariatur ab soluta doloremque dicta aspernatur labore quibusdam dolore corrupti quod inventore. Maiores, repellat, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam!
+|1990年1月19日|豊中市にて宮田家長男爆誕。"銀四郎"、"ターボ"などの候補を退け、"勝利"と名を授かる。|
+|---|
 
 ### Fugit, laboriosam
 

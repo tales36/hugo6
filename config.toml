@@ -12,7 +12,7 @@ publishDir = "docs"
     address = "It is everywhere you've ever been."
     year = 2019
     avatar = "images/guy2.JPG"
-    background = "images/bg_head.jpg"
+    background = "images/bg_head2.jpg"
     favicon = "images/gt_favicon.png"
     DateForm = "October 8, 2019"
 

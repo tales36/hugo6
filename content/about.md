@@ -7,7 +7,7 @@ weight = 10
 
 # Jump to the sky turns to a riderkick!
 
-![about](images/miyata.jpg)
+![about](../images/miyata.jpg)
 
 ## background
 

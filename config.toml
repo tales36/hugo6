@@ -1,20 +1,20 @@
-baseURL = "https://master.d1rr10busngxoi.amplifyapp.com"
+baseURL = "https://master.d1rr10busngxoi.amplifyapp.com/"
 languageCode = "en-us"
 title = "Initio - Free, multipurpose html5 template by GetTemplate"
 theme = "hugo-initio"
 publishDir = "docs"
 
 [params]
-    name = "Anthony Russel"
-    description = "A mystery person"
-    email = "anthony.russel42@example.com"
-    phone = "+234 23 9873237"
-    address = "234 Hidden Pond Road, Ashland City, TN 37015"
-    year = 2017
+    name = "Katsutoshi Miyata"
+    description = "A Victory Person"
+    email = "victorymagic36@gmail.com"
+    phone = "0120-114-514"
+    address = "It is everywhere you've ever been."
+    year = 2019
     avatar = "images/guy.jpg"
     background = ""
     favicon = "images/gt_favicon.png"
-    DateForm = "January 2, 2006"
+    DateForm = "October 8, 2019"
 
     showSubheader = true
     showServices = true
@@ -97,7 +97,7 @@ publishDir = "docs"
     network = ""
 [[params.social]]
 	title = "email"
-	url = "mailto:some.email@somewhere.com"
+	url = "mailto:victorymagic36@gmail.com"
     icon = "fa-envelope"
     footer = false
     sharethis = true

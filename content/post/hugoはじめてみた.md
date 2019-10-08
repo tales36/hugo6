@@ -22,4 +22,4 @@ Preview画面がおそろしいほど見やすい。
 
 おわり 
 
-![amplify](../../images/amplify.jpg)
+![amplify](../images/amplify.jpg)

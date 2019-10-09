@@ -5,7 +5,7 @@ type = "about"
 weight = 10
 +++
 
-# Jump to the sky turns to a riderkick!
+# 安心してください。AWS認定SA プロフェッショナルですよ。
 
 ![about](../images/miyata.jpg)
 

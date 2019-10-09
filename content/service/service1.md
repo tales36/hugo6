@@ -1,9 +1,27 @@
 +++
-title = "Custom website design"
+title = "本サイトのインフラについて"
 +++
 
-I don't think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn't eat for three weeks. i once heard a wise man say there are no perfect men.
+詳細な構成はread moreより読んでモア
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## githubのコードは以下です。
+---
+[hugo on amplify](https://github.com/tales36/hugo6)
+
+## おおまかな図は以下です。
+---
+![serverless](../../images/serverless.png)
+
+## 概要
+---
+新規記事作成　→　**hugo new content/post/hoge.md**
+
+画像とかは **Static/images** に入れる。
+
+<br>
+<br>
+<br>
+
+presented by katsutoshi miyata

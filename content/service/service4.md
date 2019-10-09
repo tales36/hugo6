@@ -1,9 +1,32 @@
 +++
-title = "SEO & SEM services"
+title = "あなたに一番近いプロフェッショナル"
 +++
 
-I don't think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn't eat for three weeks. i once heard a wise man say there are no perfect men.
+見積もり金額が分からない。どういう構成が良いのか分からない。そもそもAWSが何なのかよく分からない。そんなあなたの一番の友人になりたい。
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## 他のことはよく分かりません。でも、AWSのことはそれなりに知ってます。
+
+![badge](../../images/AWSbadge.png)
+
+AWSはあなたにとって一番の友人であり、一番のメリットを与えてくれる存在であり、一番の理解者でもあります。  
+そんな親愛なるAWSを毛嫌いする人間を私は何人も見てきました。
+
+「セキュリティが不安だ」「従量課金で破産する」「サービスが理解できない」
+
+### **それはすべて誤解です。**
+
+セキュリティはオンプレで置こうがクラウドを利用しようが、構成に不十分な点がある限り**強度は変わりません。**  
+そして、従量課金は**クラウドを利用する為の単位**です。それを物理資産と同じ尺度で計算するから破産するのです。  
+サービスが理解できないのはあなたの責任ではありません。  
+それはあなたの隣に居る人間がオンプレのプロフェッショナルであり、**クラウドのプロフェッショナルでは無い**からです。
+
+あなたがこれから人生と同じくらい長く利用するであろうAWSを選ぶのであれば、**あなたの隣にはAWSのプロフェッショナルを置くべきです。**
+
+### **願わくば、それが私であることを心より願っています。**
+<br>
+<br>
+
+#### *Sinsurely yours*
+

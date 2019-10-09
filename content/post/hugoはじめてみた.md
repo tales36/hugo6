@@ -1,6 +1,6 @@
 ---
 title: "hugoはじめてみた"
-date: 2019-10-08T09:12:37Z
+date: "2019-10-08T09:12:37Z"
 ---
 
 hugoをAWS Amplify上で動かしてます。  

@@ -1,6 +1,6 @@
 baseURL = "https://daily.19900119.xyz/"
 languageCode = "en-us"
-title = "Initio - Free, multipurpose html5 template by GetTemplate"
+title = "宮田のふるえるほどかっこいいサイト"
 theme = "hugo-initio"
 publishDir = "docs"
 
@@ -33,8 +33,8 @@ publishDir = "docs"
     weight = 1
 [[menu.main]]
     name = "blog"
-    url = "/post/"
-    weight = 5
+    url = "post/"
+    weight = 10
 
 [params.disqus]
     site = "hugo-initio-site.disqus.com"

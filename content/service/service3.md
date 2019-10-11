@@ -1,5 +1,5 @@
 +++
-title = "MIYATA's<br>フィロソフィー"
+title = "MIYATA's フィロソフィー"
 +++
 
 宮田の哲学。

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 宮田のふるえるほどかっこいいサイト</title>
+    <link>https://daily.19900119.xyz/post/</link>
+    <description>Recent content in Posts on 宮田のふるえるほどかっこいいサイト</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Oct 2019 00:12:37 +0000</lastBuildDate>
+    
+	<atom:link href="https://daily.19900119.xyz/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>test</title>
+      <link>https://daily.19900119.xyz/post/test/</link>
+      <pubDate>Thu, 10 Oct 2019 00:12:37 +0000</pubDate>
+      
+      <guid>https://daily.19900119.xyz/post/test/</guid>
+      <description>ちゃんと出力されるかな？</description>
+    </item>
+    
+    <item>
+      <title>hugoの構築の仕方</title>
+      <link>https://daily.19900119.xyz/post/hugo20191009/</link>
+      <pubDate>Wed, 09 Oct 2019 22:32:37 +0000</pubDate>
+      
+      <guid>https://daily.19900119.xyz/post/hugo20191009/</guid>
+      <description> そもそもhugoってなんじゃらほい？
+go言語を使った性的静的サイトジェネレーター･･･らしい。
+参考:hugoとは
+メリットとデメリットは↑のリンクをみてほしい。 書くのめんどい
+とかくMarkdownで記事を書くのが楽なのが気に入った。
+そのうえ、Amplify上で動くからインフラのこと気にせずセキュアにサイトを公開できるのがとってもいい。
+未だにWordpress使ってる奴は猿。
+んでまぁ、ここから本題。
+私が構築した方法は以下
+ 適当なEC2インスタンスに適切にhomebrewをインストール。
+（なんかMacとかで利用されるパッケージ管理システムらしい。RPMのお友達？インストールの仕方はこちらで） brew install hugoでhugoをインストール。バージョン確認はhugo versionで見れる。
+MEM512MBだとメモリ不足で止まったので、MEMは1GB以上いると思うます。　 hugo new site hogeでhogeって名前のフォルダが出来て、その中にhugo初心者セットが作成される。 hugo new my-first-hoge.mdで、今居るディレクトリに記事が作られます。
+記事はarchetypesディレクトリのdefault.mdに基づき作られるので、ブログとかで定型文入れるならここをいじる。
+既定ではタイトルと日付しか入らないので。 hugo server -Dと叩くと、http://localhost:1313/に静的サイトがジェネレイトされて、ふるえるほどかっこいい。  とりあえず今日はサーバー上にhugoをインストールするところまで。
+ここからテーマを変更して、githubにあげてAmplifyで動かす感じです。
+ところで秋どこ･･･？ここ･･･？
+おわり </description>
+    </item>
+    
+    <item>
+      <title>hugoはじめてみた</title>
+      <link>https://daily.19900119.xyz/post/hugo%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%BF%E3%81%9F/</link>
+      <pubDate>Tue, 08 Oct 2019 09:12:37 +0000</pubDate>
+      
+      <guid>https://daily.19900119.xyz/post/hugo%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%BF%E3%81%9F/</guid>
+      <description>hugoをAWS Amplify上で動かしてます。
+完全サーバーレスでふるえるほどかっこいい。
+ただ、テーマを導入する時は色々と癖が強くてハマりまくった。 公開ディレクトリのデフォルトPublicなんだから、Publicでいいじゃんね･･･。
+ドキュメント全然読んでなかった自分が悪いんだけども。
+あと、MDのヘッダーぽいところに「draft: true」付いてたらhugoが自動でhtml生成しないってドキュメントのどこにも書いてなくてふるえる。
+MDファイルはVisual Studio Codeで書いてます。 Preview画面がおそろしいほど見やすい。
+ローカルPCからWindows用のgitでgithubにPushしてあげたら自動でAmplifyが動いて、コンテナ作ってhugoコマンド打ってくれるからラクチン。
+もう、レンサバなんていらないね。
+これの構築でお金取ってビジネスしたい。
+おわり</description>
+    </item>
+    
+  </channel>
+</rss>

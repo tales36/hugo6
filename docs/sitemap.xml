@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://daily.19900119.xyz/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://daily.19900119.xyz/post/</loc>
+    <lastmod>2019-10-10T00:12:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daily.19900119.xyz/post/test/</loc>
+    <lastmod>2019-10-10T00:12:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daily.19900119.xyz/</loc>
+    <lastmod>2019-10-10T00:12:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daily.19900119.xyz/post/hugo20191009/</loc>
+    <lastmod>2019-10-09T22:32:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daily.19900119.xyz/post/hugo%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%BF%E3%81%9F/</loc>
+    <lastmod>2019-10-08T09:12:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daily.19900119.xyz/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://daily.19900119.xyz/service/</loc>
+  </url>
+  
+  <url>
+    <loc>https://daily.19900119.xyz/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://daily.19900119.xyz/service/service2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://daily.19900119.xyz/service/service4/</loc>
+  </url>
+  
+  <url>
+    <loc>https://daily.19900119.xyz/service/service3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://daily.19900119.xyz/service/service1/</loc>
+  </url>
+  
+</urlset>
